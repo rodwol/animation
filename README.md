@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # animation
 
-A new Flutter project.
+Flutter project.
 
 ## Getting Started
 
@@ -17,4 +16,3 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 # animation
->>>>>>> f93525cffbbba4adac18e0453c9f2558632db3b4
